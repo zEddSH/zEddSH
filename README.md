@@ -1,8 +1,8 @@
 ## Hej 👋
 
-💡 Interested in startups and investing. 
-💰 Software engineer specialising in testing and platform infra. 
-🗺️ Based in Stockholm, previosly SF, Oxford, & London. 
+- 💡 Interested in startups and investing. 
+- 💰 Software engineer specialising in testing and platform infra. 
+- 🗺️ Based in Stockholm, previosly SF, Oxford, & London. 
 
 <!--
 **edjalashha/edjalashha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
